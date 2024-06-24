@@ -1,0 +1,9 @@
+other/
+CustomTkinter/
+__pycache__/
+ReadMe.md
+pics/
+Documentation.*
+!Documentation.tex
+!Documentation.pdf
+output/
